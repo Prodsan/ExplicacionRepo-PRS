@@ -1,0 +1,3 @@
+primera línea
+
+hemos eliminado file2 y file3. 
